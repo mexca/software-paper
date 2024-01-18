@@ -3,7 +3,7 @@
 
 import os
 
-PAPER_DIR = "paper"
+PAPER_DIR = "."
 RESULTS_DIR = os.path.join(PAPER_DIR, "results")
 REF_DIR = os.path.join(PAPER_DIR, "data")
 CANDIDATES = [
