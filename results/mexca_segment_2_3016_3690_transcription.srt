@@ -1,0 +1,867 @@
+1
+00:00:00,008 --> 00:00:00,768
+<6> Zo, dat is snel.
+
+2
+00:00:00,888 --> 00:00:02,568
+<6> Ik wilde net zeggen, u mag uw keuze maken.
+
+3
+00:00:02,688 --> 00:00:06,068
+<6> Groen, u wilt die kerncentrales en rood, u wilt ze absoluut niet.
+
+4
+00:00:06,188 --> 00:00:07,928
+<6> Nou ja, groen, rood tegenover elkaar.
+
+5
+00:00:08,108 --> 00:00:08,628
+<6> We zullen beginnen.
+
+6
+00:00:08,748 --> 00:00:10,048
+<6> Meneer Klaver, u wilt ze niet.
+
+7
+00:00:10,808 --> 00:00:10,988
+<6> Nee.
+
+8
+00:00:11,027 --> 00:00:11,067
+<4> TV GELDERLAND 2021.
+
+9
+00:00:12,124 --> 00:00:14,224
+<4> Het is de grootste leugen van deze verkiezingscampagne.
+
+10
+00:00:14,484 --> 00:00:18,584
+<4> Iedereen die beweert dat een kerncentrale het halen van de klimaatdoelen dichterbij haalt.
+
+11
+00:00:18,644 --> 00:00:21,404
+<4> Wat we moeten doen is zorgen voor minder bio-industrie en meer natuur.
+
+12
+00:00:21,404 --> 00:00:24,264
+<4> Minder vervuilende industrie, meer innovatie.
+
+13
+00:00:24,264 --> 00:00:28,584
+<4> Zorgen voor minder vliegtuigen en veel meer treinen.
+
+14
+00:00:28,584 --> 00:00:31,084
+<4> Dat is de manier waarop we klimaatverandering kunnen aanpakken.
+
+15
+00:00:31,084 --> 00:00:34,064
+<4> Want we hebben nog tien jaar, slechts tien jaar om klimaatverandering aan te pakken.
+
+16
+00:00:34,064 --> 00:00:37,744
+<4> En iedereen weet, de bouw van een kerncentrale duurt veel langer.
+
+17
+00:00:37,744 --> 00:00:39,864
+<4> Dus ik zou zeggen, trap er niet in.
+
+18
+00:00:40,222 --> 00:00:40,962
+<2> Meneer Wilders.
+
+19
+00:00:41,682 --> 00:00:48,742
+<2> Ja, ik heb niet zoveel met het klimaatsprookje zoals u weet, maar ik vind dit wel een goede stelling.
+
+20
+00:00:48,862 --> 00:00:50,902
+<2> Ik ben erg voor kernenergie en kerncentrales.
+
+21
+00:00:51,482 --> 00:01:01,162
+<2> Het is schoon, het is efficiënt, je hebt altijd energie, je bent niet afhankelijk van of de wind waait of de zon schijnt, zoals nu met de windmolens en met die zonneparken.
+
+22
+00:01:01,642 --> 00:01:07,982
+<2> En nogmaals, als ze er eenmaal staan zijn ze goedkoper ook, twee tot drie keer goedkoper dan bijvoorbeeld windenergie.
+
+23
+00:01:07,982 --> 00:01:14,862
+<2> En als we drie kerncentrales in Nederland hebben, kunnen we voor alle acht miljoen huishoudens in één keer de elektriciteit voorzien.
+
+24
+00:01:15,162 --> 00:01:16,342
+<2> Dus ik zou zeggen, doen!
+
+25
+00:01:18,122 --> 00:01:18,882
+<1> U zegt niet doen.
+
+26
+00:01:19,542 --> 00:01:20,082
+<1> Niet doen.
+
+27
+00:01:20,502 --> 00:01:21,342
+<1> We hebben haast.
+
+28
+00:01:22,042 --> 00:01:23,442
+<1> We willen de doelen halen.
+
+29
+00:01:23,702 --> 00:01:27,942
+<1> We kunnen dat met windenergie, zonne-energie en natuurlijk de groene waterstof.
+
+30
+00:01:27,942 --> 00:01:29,242
+<1> Dat is verstandig.
+
+31
+00:01:29,242 --> 00:01:30,822
+<1> En we kunnen eraan verdienen.
+
+32
+00:01:30,822 --> 00:01:32,142
+<1> Er zitten banen in.
+
+33
+00:01:32,142 --> 00:01:32,802
+<1> Het is de nieuwe economie.
+
+34
+00:01:32,802 --> 00:01:36,102
+<1> Wij, ik, heb geen taboe op kernenergie.
+
+35
+00:01:36,102 --> 00:01:37,462
+<1> Dat wil eigenlijk duidelijk zijn.
+
+36
+00:01:37,462 --> 00:01:38,742
+<1> Het is geen dogma voor mij.
+
+37
+00:01:38,742 --> 00:01:39,702
+<1> Maar het is duur.
+
+38
+00:01:39,702 --> 00:01:41,782
+<1> Het kost veel te veel tijd.
+
+39
+00:01:41,782 --> 00:01:46,202
+<1> En verder is het, de drie heren hier staan voor de oude economie.
+
+40
+00:01:46,202 --> 00:01:48,062
+<1> Als je voor kernenergie bent.
+
+41
+00:01:49,350 --> 00:01:53,130
+<6> Oude economie, nou dan ga ik even naar de econoom in de hoekstraat, u mag toelichten.
+
+42
+00:01:53,847 --> 00:01:55,807
+<3> We hebben met z'n allen de aarde in bruikleen.
+
+43
+00:01:55,807 --> 00:02:00,147
+<3> Klimaatverandering is een van de grote uitdagingen van deze tijd.
+
+44
+00:02:00,147 --> 00:02:03,227
+<3> Ik wil dat op een slimme, verstandige manier aanpakken.
+
+45
+00:02:03,227 --> 00:02:04,307
+<3> Met innovatie.
+
+46
+00:02:04,307 --> 00:02:08,107
+<3> We hebben geen tijd voor allerlei ideologische debatten.
+
+47
+00:02:08,107 --> 00:02:09,607
+<3> We moeten doen wat werkt.
+
+48
+00:02:09,607 --> 00:02:11,827
+<3> We moeten werken aan dat betere milieu.
+
+49
+00:02:11,827 --> 00:02:14,987
+<3> Aan de gang met wind, met zon en met kernenergie.
+
+50
+00:02:14,987 --> 00:02:18,187
+<3> Voor deze generatie en voor de volgende generatie.
+
+51
+00:02:20,307 --> 00:02:22,907
+<6> En ook de SP wil geen kerncentrales, mevrouw Marijnissen.
+
+52
+00:02:23,479 --> 00:02:28,019
+<0> Nee, en ik vind de discussie over kernenergie ook een beetje verspeelde energie.
+
+53
+00:02:28,459 --> 00:02:31,959
+<0> Het is peperduur, dat op de eerste plaats, en het is gevaarlijk.
+
+54
+00:02:32,779 --> 00:02:36,119
+<0> En laten we nou niet al die miljarden over de balk gooien.
+
+55
+00:02:36,359 --> 00:02:38,659
+<0> Laten we die miljarden nou steken in ons voorstel.
+
+56
+00:02:38,819 --> 00:02:42,359
+<0> Dat is zonnepanelen op alle daken die daarvoor geschikt zijn.
+
+57
+00:02:42,739 --> 00:02:45,359
+<0> En dat is investeren in het isoleren van huizen.
+
+58
+00:02:45,439 --> 00:02:47,359
+<0> Want daar hebben tenminste mensen nu wat aan.
+
+59
+00:02:47,479 --> 00:02:51,919
+<0> Dat gekletst over kerncentrales, dat is over tientallen jaren misschien aan de orde.
+
+60
+00:02:52,279 --> 00:02:55,099
+<0> Als we nu huizen investeren, hebben mensen daar nu wat aan.
+
+61
+00:02:55,159 --> 00:02:58,259
+<0> Dan heb je nu een beter huis en nu een lagere energierekening.
+
+62
+00:02:59,588 --> 00:03:00,268
+<5> Meneer Rutte.
+
+63
+00:03:00,348 --> 00:03:03,768
+<5> Ik wil het land schoon doorgeven, daarom wil ik ook de klimaatdoelen halen.
+
+64
+00:03:03,848 --> 00:03:07,768
+<5> Bovendien, dat is een mooie bijkomstigheid, wil ik ook minder afhankelijk worden van Poetin en het Midden-Oosten.
+
+65
+00:03:07,768 --> 00:03:14,768
+<5> Het probleem is, de zon schijnt niet altijd, de wind is er niet altijd, dus je kunt niet uit met alleen zonnepanelen en windmolens.
+
+66
+00:03:14,768 --> 00:03:17,268
+<5> We hebben ook echt kernenergie nodig.
+
+67
+00:03:19,302 --> 00:03:20,742
+<6> We hebben echt kernenergie nodig.
+
+68
+00:03:20,842 --> 00:03:25,242
+<6> Wat mij zojuist opviel, u zegt het is hartstikke duur.
+
+69
+00:03:26,122 --> 00:03:26,922
+<6> En meneer Wilders zegt...
+
+70
+00:03:27,046 --> 00:03:28,146
+<2> Dus hartstikke goedkoop?
+
+71
+00:03:28,866 --> 00:03:30,686
+<2> Ja, zeker als het er eenmaal staat.
+
+72
+00:03:30,786 --> 00:03:32,006
+<2> Als het er eenmaal staat is het goedkoop.
+
+73
+00:03:32,326 --> 00:03:36,086
+<2> Om het te krijgen is het relatief duur.
+
+74
+00:03:36,166 --> 00:03:47,786
+<2> Maar dat komt ook omdat nieuwe aanbieders van kernenergie, die moeten bijvoorbeeld om te beginnen, moeten die al 3 miljard op tafel leggen om de zogenaamde opruimkosten, omdat na 60 jaar is het af moeten bouwen, om dat al neer te leggen.
+
+75
+00:03:48,006 --> 00:03:52,446
+<2> Dat is natuurlijk oneerlijk, want zonne-energie, windenergie wordt wel gesubsidieerd.
+
+76
+00:03:52,446 --> 00:04:07,166
+<2> Dus als je de overheid zou zeggen, we gaan voor die 3 miljard die ze in het begin al moeten ophoesten, gaan we als overheid bijvoorbeeld garant staan, dan zal je zien dat er veel eerder investeerders zijn die dat ook zullen gaan doen, waardoor we schone, efficiënte en ook voor iedereen bereikbare goedkopere energie hebben.
+
+77
+00:04:07,166 --> 00:04:08,586
+<2> Goedkoper, nu zeg je duur.
+
+78
+00:04:09,985 --> 00:04:13,805
+<0> Ja, meneer Wilders geeft zelf toe, het kost heel veel miljarden.
+
+79
+00:04:14,025 --> 00:04:19,745
+<0> Overigens altijd frappant vind ik als wij zeggen eigen risico afschaffen, dan wordt meteen gevraagd waar wilt u dat van betalen dan?
+
+80
+00:04:19,805 --> 00:04:22,905
+<0> Nou, waar wilt u dat van betalen dan, die tientallen miljarden dat dat gaat kosten?
+
+81
+00:04:23,225 --> 00:04:25,365
+<0> Maar ik zou eigenlijk een andere vraag aan de heer Rutte willen stellen.
+
+82
+00:04:25,765 --> 00:04:30,185
+<0> Want hij kan zeggen heel stoer we moeten investeren in kerncentrales, maar ik ben eigenlijk ook wel benieuwd.
+
+83
+00:04:30,525 --> 00:04:37,925
+<0> Ik kan me namelijk voorstellen als mensen op 17 maart gaan stemmen, dat ze dan ook wel van meneer Rutte willen weten waar die kerncentrale dan komt.
+
+84
+00:04:37,925 --> 00:04:43,725
+<0> Er is nu heel veel terechte weerstand van mensen die bijvoorbeeld een windmolen in hun achtertuin krijgen.
+
+85
+00:04:44,145 --> 00:04:49,365
+<0> Ik kan me zomaar voorstellen dat mensen misschien nog minder zitten te wachten op een kerncentrale in hun achtertuin.
+
+86
+00:04:49,445 --> 00:04:51,245
+<0> Dus waar gaan die kerncentrales komen in Nederland?
+
+87
+00:04:51,186 --> 00:04:56,846
+<5> We moeten zorgen dat het draagvlak is, net zoals op dit moment in Eiburg mensen geen Golingspin stemmen omdat ze die windmolens niet willen.
+
+88
+00:04:57,295 --> 00:04:57,595
+<6> Maar waar wil u voor?
+
+89
+00:04:57,306 --> 00:04:58,046
+<5> We moeten ervoor zorgen.
+
+90
+00:04:58,046 --> 00:04:58,066
+<5> Maar waar wil u het voor?
+
+91
+00:04:58,275 --> 00:04:58,695
+<6> Want u wilt de wachtwoord inhooren.
+
+92
+00:04:58,406 --> 00:05:04,966
+<5> Sowieso kun je een borstel erbij bouwen en er is ook een plek in Groningen waarvan gezegd is dat men niet graag wil.
+
+93
+00:04:58,695 --> 00:05:00,075
+<6> Wacht even, nou even meneer Rutte.
+
+94
+00:05:05,699 --> 00:05:11,059
+<0> Ah, dus Groningen wat al zo vaak ingewest is gebruikt, mag nu dan ook de kerstdieren gaan dragen.
+
+95
+00:05:07,612 --> 00:05:09,112
+<5> Maar in de West is het vooruit.
+
+96
+00:05:09,292 --> 00:05:11,052
+<5> Mag nu dan ook die kerstmiddel aan de draag?
+
+97
+00:05:11,052 --> 00:05:12,732
+<5> Marijnissen, ik wil antwoorden op je vraag.
+
+98
+00:05:13,252 --> 00:05:15,632
+<5> In Groningen wil graag de energieprovincie zijn.
+
+99
+00:05:15,772 --> 00:05:17,552
+<5> Niet meer het aardgas wat we uit de grond halen.
+
+100
+00:05:17,592 --> 00:05:19,252
+<5> Daar stoppen we gelukkig mee, ook door de aardbeef.
+
+101
+00:05:19,652 --> 00:05:22,432
+<5> Maar Groningen wil wel de provincie zijn van de energietransitie.
+
+102
+00:05:22,952 --> 00:05:24,172
+<5> En daar zitten ook enorme kansen.
+
+103
+00:05:24,232 --> 00:05:26,572
+<5> Maar ik zou wel een vraag hebben voor de heer Klaver als u mij toestaat.
+
+104
+00:05:26,952 --> 00:05:30,112
+<5> Want ik zie in zijn programma dat hij eigenlijk aan het overtoepen is.
+
+105
+00:05:30,212 --> 00:05:32,572
+<5> Dus je hebt die bestaande klimaatwet en de klimaatakkoord.
+
+106
+00:05:32,592 --> 00:05:34,932
+<5> En wat hij doet is daar heel veel dingen bovenop stapelen.
+
+107
+00:05:35,112 --> 00:05:36,892
+<5> En ik vraag me af of dat nou verstandig is.
+
+108
+00:05:36,972 --> 00:05:37,912
+<5> Ik noemde al dat IJburg.
+
+109
+00:05:38,072 --> 00:05:39,092
+<5> De GroenLinks-kiezers rennen weg.
+
+110
+00:05:39,092 --> 00:05:42,732
+<5> Wat je moet doen in Nederland is zorgen voor het draagvlak onder ons klimaatbeleid.
+
+111
+00:05:42,732 --> 00:05:47,632
+<5> Dat draagvlak, meneer Klaver, valt weg als je iedere keer de plannen die je gemaakt hebt weer gaat aanpassen.
+
+112
+00:05:47,632 --> 00:05:50,272
+<5> Mensen raken bezorgd, denken kan ik het nog wel betalen?
+
+113
+00:05:50,272 --> 00:05:53,392
+<5> Op die manier ga je de Parijs-doelen natuurlijk nooit halen in Nederland.
+
+114
+00:05:54,855 --> 00:05:57,935
+<4> Meneer Rutte, mijn partij is volstrekt helder.
+
+115
+00:05:58,275 --> 00:06:01,415
+<4> De aanpak van klimaatverandering is prioriteit nummer 1, 2 en 3.
+
+116
+00:06:02,035 --> 00:06:05,255
+<4> Ik laat mijn programma ook doorrekenen door het Planbureau voor de Leefomgeving.
+
+117
+00:06:05,375 --> 00:06:07,755
+<4> En daaruit zal morgen blijken, dan worden die cijfers bekend...
+
+118
+00:06:07,755 --> 00:06:10,355
+<4> dat wij inderdaad 60 procent CO2-reductie weten te bereiken.
+
+119
+00:06:10,355 --> 00:06:11,315
+<4> U doet dat niet.
+
+120
+00:06:11,315 --> 00:06:13,475
+<4> U legt hier een claim neer en zegt...
+
+121
+00:06:13,475 --> 00:06:16,455
+<4> ik wil de aarde schoon doorgeven aan de volgende generaties.
+
+122
+00:06:16,455 --> 00:06:18,375
+<4> U zegt, ik doe dat met een kerncentrale.
+
+123
+00:06:18,375 --> 00:06:21,095
+<4> U laat uw plannen niet doorrekenen, meneer Rutte.
+
+124
+00:06:21,095 --> 00:06:24,295
+<4> En ik zeg het hard, u bent niet eerlijk.
+
+125
+00:06:24,295 --> 00:06:27,155
+<4> U kunt met uw programma, gaat u de ambities...
+
+126
+00:06:27,155 --> 00:06:30,675
+<4> om het klimaatakkoord van Parijs te halen, gaat u niet halen.
+
+127
+00:06:30,675 --> 00:06:33,135
+<4> Want u weigert iets te doen aan de bio-industrie.
+
+128
+00:06:33,135 --> 00:06:35,455
+<4> U weigert iets te doen aan de vervuilende bedrijven.
+
+129
+00:06:35,455 --> 00:06:38,795
+<4> En u weigert nog veel meer te doen aan de groei van schip.
+
+130
+00:06:39,186 --> 00:06:40,726
+<5> Ik zal daar kort op reageren, want dat klopt niet.
+
+131
+00:06:40,806 --> 00:06:43,726
+<5> Ik zag dat vandaag ook in Buitenhof zeggen of ergens anders in de media.
+
+132
+00:06:44,386 --> 00:06:45,786
+<5> Ons plan is al doorgekregen.
+
+133
+00:06:45,866 --> 00:06:48,506
+<5> Dat is het bestaande klimaatakkoord en dat is de bestaande klimaatwet.
+
+134
+00:06:48,766 --> 00:06:50,866
+<5> En wat wij niet willen is waar we afgesproken hebben...
+
+135
+00:06:50,866 --> 00:06:51,666
+<5> Wacht, maak hem even af.
+
+136
+00:06:52,146 --> 00:06:56,066
+<5> Wat we niet willen is waar we afgesproken hebben om gedurende vijf jaar stabiliteit te hebben.
+
+137
+00:06:56,186 --> 00:06:57,766
+<5> En na vijf jaar te kijken wat moet er meer.
+
+138
+00:06:58,166 --> 00:07:00,106
+<5> Met u nu alweer bezig er van alles op te stapelen.
+
+139
+00:07:00,206 --> 00:07:07,266
+<5> Daarnaast zegt de VVD in Europa moet je proberen afspraken te maken om ervoor te zorgen...
+
+140
+00:07:07,266 --> 00:07:09,486
+<5> ...dat je niet alleen over de grensjaagd maar Europese afspraken hebt.
+
+141
+00:07:09,626 --> 00:07:10,406
+<5> Die rekent het...
+
+142
+00:07:10,406 --> 00:07:11,566
+<5> wacht, ik maak hem even af.
+
+143
+00:07:11,666 --> 00:07:12,586
+<5> U stelde mij een vraag.
+
+144
+00:07:13,086 --> 00:07:14,386
+<5> Die rekent het PBL niet door.
+
+145
+00:07:14,766 --> 00:07:15,966
+<5> Het Planbureau voor de Levenomgeving.
+
+146
+00:07:16,086 --> 00:07:18,646
+<5> Dus wij hebben gezegd ons plan is al doorgerekend.
+
+147
+00:07:19,046 --> 00:07:21,466
+<5> Dus dit is niet nodig, want dat Europese extra.
+
+148
+00:07:21,986 --> 00:07:24,366
+<5> Daar zegt het PBL van dat rekenen we nu niet door.
+
+149
+00:07:24,426 --> 00:07:26,946
+<5> Maar het is wel nodig om onze industrie, onze banen...
+
+150
+00:07:26,946 --> 00:07:28,526
+<5> Meneer, ik...
+
+151
+00:07:27,150 --> 00:07:31,890
+<6> Meneer Teglaven, ik ga u even onderbreken want mevrouw Kaag staat ook te popelen.
+
+152
+00:07:32,527 --> 00:07:38,427
+<1> Ik had natuurlijk dezelfde zorg, maar wat ik belangrijker vind dat uw ambitieniveau eigenlijk ophoudt bij de komende vijf jaar.
+
+153
+00:07:38,627 --> 00:07:47,727
+<1> En ik denk dat we nu in een periode van corona echt moeten doorgeven hoe we de komende decennia in sneltijnvaart de klimaatcrisis willen aanpakken.
+
+154
+00:07:47,827 --> 00:07:52,447
+<1> Maar het excuus van het doorrekenen wachten op Europa dat kan op elk thema doorgaan.
+
+155
+00:07:52,527 --> 00:07:53,707
+<1> Wij hebben dat met onderwijs.
+
+156
+00:07:54,227 --> 00:08:00,127
+<1> Het Centraal Planbureau, de doorrekening laat onderwijs niet zien als de investering die het is.
+
+157
+00:08:00,547 --> 00:08:03,927
+<1> Toch hebben wij een plan met de miljarden die daarbij horen.
+
+158
+00:08:03,987 --> 00:08:08,807
+<1> Dat moet u ook doen, zodat de kiezer transparant weet wat u daarna van plan met Europa.
+
+159
+00:08:09,047 --> 00:08:12,787
+<1> Wordt altijd gebruikt als het excuus van gelijkspeeltijd op zoveel terrein.
+
+160
+00:08:11,526 --> 00:08:12,106
+<6> Maar dat doen we natuurlijk.
+
+161
+00:08:16,994 --> 00:08:17,494
+<5> doen dat.
+
+162
+00:08:17,954 --> 00:08:22,694
+<5> Maar ik zeg ook tegen mevrouw Kaag, als je een plan maakt waarvan je zegt na vijf jaar gaan we kijken wat er meer nodig is.
+
+163
+00:08:23,134 --> 00:08:25,634
+<5> De VGD zegt je moet nu al in Europa extra afspraken maken.
+
+164
+00:08:26,494 --> 00:08:34,974
+<5> Maar als je dan nu alweer, wacht nou, wacht even, als je nu alweer zegt we hebben een plan dat na vijf jaar zou worden bekeken en we gaan nu alweer extra dingen er bovenop zetten wat er dan gebeurt.
+
+165
+00:08:35,050 --> 00:08:36,590
+<0> Al die mensen die dit volgen...
+
+166
+00:08:35,054 --> 00:08:37,474
+<5> Al die mensen die dit volgen, die zijn bezorgd.
+
+167
+00:08:37,774 --> 00:08:39,614
+<5> Die denken kan ik dat nog wel financieel meemaken.
+
+168
+00:08:39,714 --> 00:08:43,474
+<5> We willen die klimaatdoelen halen, maar we moeten wel als Nederland met z'n allen dat ook kunnen meemaken.
+
+169
+00:08:43,474 --> 00:08:45,274
+<5> Terug naar de stelling, meneer Hoekstra.
+
+170
+00:08:45,782 --> 00:08:52,102
+<3> Ja, ik begrijp het gevoel van de heer Klaver en mevrouw Kaag wel dat die Rutte een beetje als een emmertje achter de boot hangt.
+
+171
+00:08:52,602 --> 00:08:54,622
+<3> Maar in één opzicht moet ik het toch echt voor me opnemen.
+
+172
+00:08:55,182 --> 00:08:59,182
+<3> En dat gaat over die doorrekening en die internationale kant van de zaak.
+
+173
+00:08:59,522 --> 00:09:07,582
+<3> Want het is op dit moment zo dat als er in Duitsland een bruinkoolcentrale wordt uitgezet en de gascentrale in Nederland gaat aan, dan is dat goed voor het milieu.
+
+174
+00:09:08,142 --> 00:09:16,262
+<3> En vervolgens krijgt Nederland een extra CO2 penalty, moet je betalen omdat je het aan Nederland toegerekend krijgt.
+
+175
+00:09:16,502 --> 00:09:17,542
+<3> En dat is niet verstandig.
+
+176
+00:09:17,822 --> 00:09:22,202
+<3> Dus ik zou ook tegen de heer Klaver willen zeggen, u staat achter die grote ideologische muur.
+
+177
+00:09:22,742 --> 00:09:31,582
+<3> Kom erachter vandaan, begin ook met die kernenergie, laten we het praktisch maken, laten we het probleem oplossen, kiezen voor innovatie en er zijn ook banen die we ermee kunnen creëren.
+
+178
+00:09:32,107 --> 00:09:37,587
+<6> Heel kort nog even, want ik hoor hier aan mijn linkeroor en dat vind ik wel belangrijk, hier wordt gelogen.
+
+179
+00:09:37,943 --> 00:09:40,123
+<4> En glas wordt gehaald door beide.
+
+180
+00:09:41,318 --> 00:09:50,498
+<4> Als jullie durven te zeggen en te beweren dat de kerncentrale bijdraagt aan het halen van de doelen de komende tien jaar, dat is niet waar en we hebben nog maar tien jaar om klimaatverandering aan te pakken.
+
+181
+00:09:51,078 --> 00:09:52,238
+<4> En dat is dus...
+
+182
+00:09:52,101 --> 00:09:52,701
+<0> Nee, nee, wacht.
+
+183
+00:09:52,238 --> 00:09:52,998
+<4> Nee, nee, wacht even.
+
+184
+00:09:53,138 --> 00:09:54,178
+<4> Nu ben ik...
+
+185
+00:09:54,178 --> 00:09:56,258
+<4> U beweert dat hier, u beweert dat hier beide.
+
+186
+00:09:56,838 --> 00:09:59,598
+<4> En dat is, sorry, een minister van Financiën en een premier onwaardig.
+
+187
+00:09:59,638 --> 00:10:01,858
+<4> Meneer Rutte, u staat op 300 zetels in de peilingen.
+
+188
+00:10:02,138 --> 00:10:05,218
+<4> U heeft het liegen en bedriegen niet nodig om de kiezers over te halen.
+
+189
+00:10:05,298 --> 00:10:10,178
+<4> Wat wij moeten doen de komende tien jaar is meer windmolens bouwen, meer zonnepanelen op alle daken.
+
+190
+00:10:10,318 --> 00:10:12,438
+<4> De bio-industrie verkleinen in Nederland.
+
+191
+00:10:12,438 --> 00:10:15,398
+<4> Dan hebben we misschien de kans om klimaatverandering te stoppen.
+
+192
+00:10:15,398 --> 00:10:19,218
+<4> Maar uw fata morgana van de kerncentrale, die gaat er niet door.
+
+193
+00:10:18,624 --> 00:10:19,164
+<6> Die gaat het niet halen.
+
+194
+00:10:19,218 --> 00:10:19,938
+<4> Ik ben klaar voor wat je wil.
+
+195
+00:10:26,539 --> 00:10:28,439
+<6> U wordt verbeten een leugenaar te zijn.
+
+196
+00:10:28,659 --> 00:10:30,619
+<6> Dan mag u heel kort op reageren of u dat accepteert.
+
+197
+00:10:30,719 --> 00:10:31,839
+<6> En dat geldt ook voor meneer Hoekstra.
+
+198
+00:10:31,979 --> 00:10:33,199
+<6> En dan gaan we dit afronden.
+
+199
+00:10:33,225 --> 00:10:36,465
+<5> Ik heb niet gezegd dat die kerncentrales allemaal draaien voor 2030.
+
+200
+00:10:36,565 --> 00:10:39,705
+<5> Voor 2030 heb je de bestaande plannen plus de Europese afspraken.
+
+201
+00:10:39,805 --> 00:10:41,565
+<5> Maar je hebt ook een doel voor 2050.
+
+202
+00:10:42,125 --> 00:10:44,025
+<5> Dat doel voor 2050 is klimaatneutraal.
+
+203
+00:10:44,345 --> 00:10:46,005
+<5> Dat ga je niet bereiken, meneer Klaver.
+
+204
+00:10:46,345 --> 00:10:50,665
+<5> Zonder kernenergie en uit uw plannen vernietig je het draagvlak in Nederland onder het klimaatbeleid.
+
+205
+00:10:50,765 --> 00:10:51,785
+<5> Oké, ik leg het op.
+
+206
+00:10:51,551 --> 00:10:52,291
+<6> Stop, stop, stop.
+
+207
+00:10:52,331 --> 00:10:53,071
+<6> We gaan langs de balveronde.
+
+208
+00:10:53,091 --> 00:10:53,651
+<6> Meneer Hoek staat nog even.
+
+209
+00:10:54,118 --> 00:10:55,498
+<3> Het is natuurlijk allebei waar.
+
+210
+00:10:55,738 --> 00:10:57,578
+<3> Je moet een heleboel doen op de korte termijn.
+
+211
+00:10:57,718 --> 00:11:01,018
+<3> Op het gebied van wind, op het gebied van zon, op het gebied van groene waterstof.
+
+212
+00:11:01,478 --> 00:11:03,878
+<3> Maar je hebt die kerncentrales ook op de lange termijn nodig.
+
+213
+00:11:04,238 --> 00:11:07,698
+<3> En uiteindelijk moet je dit met innovatie op een intelligente manier oplossen.
+
+214
+00:11:08,098 --> 00:11:10,958
+<3> En dan zal je zien dat je er ook nog een heleboel banen mee kan creëren.
+
+215
+00:11:11,238 --> 00:11:12,758
+<3> In plaats van dat je die de grens overjaagt.
+
+216
+00:11:13,590 --> 00:11:13,910
+<4> Oké.
+
+217
+00:11:13,607 --> 00:11:13,907
+<6> Oké.
